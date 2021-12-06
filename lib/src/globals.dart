@@ -1,0 +1,2 @@
+var walletAddress = '';
+var requestKey = '';
